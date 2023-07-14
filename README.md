@@ -13,6 +13,7 @@ Setting the sentiment to numerical values; negative -1, neutral 0, positive 1
 Removing stop words
 
 **Models**
+
 We chose the following models:
 Logistic Regression with TD-IDF
 Logistic Regression with Count Vectorizer
